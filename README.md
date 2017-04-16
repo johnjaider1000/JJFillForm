@@ -7,7 +7,7 @@ Creado por jhonjaider1000.
         <title>JJFillForm - LLena Formularios</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="icon" href="docs/assets/favicon.png">
+        <link rel="icon" href="docs/assets/favicon.png" />
         <!-- Latest compiled and minified CSS -->
         <link rel="stylesheet" href="docs/assets/plugins/bootstrap/css/bootstrap.min.css" />
         <style>
