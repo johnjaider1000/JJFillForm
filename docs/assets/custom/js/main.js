@@ -13,7 +13,7 @@ var main = {
         //Llena el formulario.
         $("#form1").fillForm(object);
         //Se juega con los datos del objeto para el segundo formulario.
-        object.nombres = "Angelica";
+        object.nombres = "Laura";
         object.apellidos = "Gómez";
         object.ifutbol = true;
         object.ihoteles = false;
@@ -26,7 +26,7 @@ var main = {
         $("#form2").fillForm(object);
         //Se juega con los datos para el formulario 3.
         object.nombres = "John";
-        object.apellidos = "Vanegas";
+        object.apellidos = "Smith";
         object.edad = 22;
         object.sexo = "M";
         object.fechanacimiento = "1994-10-07";
@@ -90,7 +90,7 @@ var main = {
     getObject: function () {
         var object = {
             nombres: "John",
-            apellidos: "Vanegas",
+            apellidos: "Smith",
             edad: 22,
             fechanacimiento: "1994/10/07",
             sexo: "M",
