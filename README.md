@@ -1,4 +1,4 @@
-#Intrdoción 
+#Introducción 
 Con JJFillForm.js podrás llenar tus formularios, solo con invocar el plugin desde un contenedor o formulario y pasar el objeto de datos.
 
 #Contribución:
